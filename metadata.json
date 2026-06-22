@@ -1,0 +1,6 @@
+{
+  "name": "Mundo da Bola",
+  "description": "Um portal de notícias de futebol dinâmico e interativo com destaques, categorias e sistema simplificado de publicação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
