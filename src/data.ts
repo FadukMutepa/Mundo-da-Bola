@@ -123,7 +123,7 @@ O resultado tático foi devastador. A equipe adversária encontrou-se em constan
 
 A nossa jornada volta mais de um século, especificamente na transição da década de 1910 para 1920. Naquela época pioneira, o futebol deixava de ser uma prática aristocrática de salão para invadir as várzeas, subúrbios urbanos e canais de rádio recém-fundados. Foram os icônicos cronistas esportivos do rádio que cunharam a mítica de que a bola é um microuniverso perfeito.
 
-Eles argumentavam que a bola não corre apenas sob a lei da física, mas sim movida pelo afeto, angústia e destino de milhões de almas. Chamar de "Mundo da Bola" era conferir ao jogo um tecido social próprio, onde regras ordinárias perdem o valor em troca de paixões inexplicáveis.
+Eles argumentavam que a bola não corre apenas sob a lei da física, mas sim movida pelo afeto, agústia e destino de milhões de almas. Chamar de "Mundo da Bola" era conferir ao jogo um tecido social próprio, onde regras ordinárias perdem o valor em troca de paixões inexplicáveis.
 
 Curiosamente, as primeiras bolas oficiais eram feitas de couro cru de origem bovina crua, preenchidas por bexigas de boi e costuradas por fora por grossas tiras de couro que causavam cicatrizes profundas nas cabeças dos destemidos atletas que tentassem cabecear. As evoluções tecnológicas deixaram o esporte ultraveloz e leve, mas o magnetismo e a mítica espiritual da redonda continuam intocáveis.`,
     category: 'Curiosidades',
@@ -192,5 +192,129 @@ Estas crônicas provam que quando o árbitro apita o início do jogo, estatísti
         date: '2026-06-17T15:10:00-03:00'
       }
     ]
+  },
+  {
+    id: 'art-7',
+    title: 'Fim da Novela: Lateral da Seleção acerta com atual Campeão Brasileiro',
+    summary: 'O defensor de 28 anos assinou por quatro temporadas e chega para suprir a principal carência técnica no setor defensivo da equipe paulista.',
+    content: `A busca incessante por um lateral de elite finalmente chegou ao fim para o torcedor do atual campeão nacional. Na tarde de ontem, todas as bases contratuais foram finalizadas e o defensor titular da Seleção Brasileira assinou um vínculo definitivo válido até dezembro de 2029.
+
+Com uma proposta financeira agressiva que inclui bonificações elevadas por metas de desempenho e títulos, o clube paulista conseguiu superar o forte assédio de duas equipes do futebol francês. O valor total da transferência gira em torno de 8 milhões de euros (aproximadamente R$ 48 milhões). 
+
+O atleta, conhecido por sua solidez defensiva extraordinária e cruzamentos cirúrgicos na linha de fundo, será apresentado na manhã de sexta-feira com direito a abertura dos portões do estádio para receber as boas-vindas dos torcedores.
+
+O treinador da equipe celebrou imensamente a concretização da contratação: "É um atleta de hierarquia internacional, experiente e que sabe lidar com a pressão de grandes decisões. Ele vai elevar o nível tático do nosso elenco de forma imediata".`,
+    category: 'Transferências',
+    image: 'https://images.unsplash.com/photo-1540747737956-37872604fec0?q=80&w=1200&auto=format&fit=crop',
+    date: '2026-06-16T14:30:00-03:00',
+    author: 'Renato Silva',
+    readTime: '3 min',
+    isHighlight: false,
+    likes: 112,
+    comments: []
+  },
+  {
+    id: 'art-8',
+    title: 'Duelo de Gigantes: Liderança isolada entra em jogo em clássico de alta voltagem',
+    summary: 'Os dois melhores ataques do torneio se enfrentam neste domingo com promessa de casa cheia e disputas ferozes em cada milímetro do gramado.',
+    content: `Não é apenas mais uma rodada comum, é o confronto direto que pode definir os rumos do título da temporada nacional. O líder e o vice-líder entram em campo separados por apenas um único ponto na tabela de classificação. 
+
+A comissão defensiva de ambas as equipes passou a semana testando esquemas para deter os atacantes mais perigosos do campeonato. De um lado, o quarteto entrosado do time visitante que soma mais de 24 gols marcados. Do outro, o sistema de posse de bola rápido e dinâmico dos donos da casa.
+
+Todas as cargas de ingressos oferecidas aos sócios-torcedores evaporaram em menos de duas horas, garantindo recorde absoluto de público pagante neste ano.
+
+A arbitragem também estará sob os holofotes, tendo sido escalado o árbitro com maior prestígio na comissão de futebol profissional para tentar manter o duelo sob controle tático do apito.`,
+    category: 'Jogos',
+    image: 'https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=1200&auto=format&fit=crop',
+    date: '2026-06-15T09:15:00-03:00',
+    author: 'Julia Carvalho',
+    readTime: '4 min',
+    isHighlight: false,
+    likes: 145,
+    comments: []
+  },
+  {
+    id: 'art-9',
+    title: 'Milagre na Chuva: Time da Lanterna arranca empate heróico contra Líder no último segundo',
+    summary: 'Sob um temporal incessante que castigou o gramado, a equipe subestimada resistiu bravamente à pressão incessante e debaixo de lama pontuou no placar.',
+    content: `A beleza incomparável do futebol reside exatamente no fato de que o favoritismo teórico desmorona diante do suor e da determinação debaixo das quatro linhas. O lanterna do campeonato, desacreditado por comentaristas de mesa redonda, deu uma verdadeira lição de bravura e fé.
+
+Com um gramado pesado e poças acumuladas que dificultavam a tradicional troca de passes curtos do líder, o confronto travou em uma batalha de força e lançamentos longos.
+
+Após sofrer dois gols no primeiro tempo, tudo parecia caminhar para mais uma goleada tranquila. No entanto, as alterações no vestiário surtiram efeito imediato. Após diminuir a desvantagem no início do segundo tempo com um chute cruzado magnífico, a equipe de menor orçamento jogou com a alma.
+
+O empate heróico por 2 a 2 veio aos 96 minutos, após uma cobrança de falta onde o goleiro foi para a área e causou confusão na zaga adversária, sobrando o rebote para o jovem atacante estufar as redes no meio da lama.`,
+    category: 'Jogos',
+    image: 'https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?q=80&w=1200&auto=format&fit=crop',
+    date: '2026-06-14T19:40:00-03:00',
+    author: 'Julia Carvalho',
+    readTime: '3 min',
+    isHighlight: false,
+    likes: 178,
+    comments: []
+  },
+  {
+    id: 'art-10',
+    title: 'Tabela de Classificação Atualizada: G-4 se consolida enquanto briga contra rebaixamento esquenta',
+    summary: 'A rodada do final de semana desenhou mudanças profundas no destino do torneio, com favoritos tropeçando e azarões surpreendendo nas vagas continentais.',
+    content: `Com o encerramento da 15ª rodada do torneio de futebol nacional, a tabela de classificação oficial ganhou contornos fascinantes e dramáticos que prometem agitar as torcidas.
+
+O pelotão da frente está mais compactado do que nunca. O empate do então líder indiscutível abriu caminho para os principais perseguidores colarem na tabela. A distância entre o primeiro e o quarto colocado agora é de apenas três pontos escassos, um único jogo de diferença tática.
+
+Na rabeira da tabela de pontos, a briga pela sobrevivência no campeonato ganhou folhetos de pura emoção e nervosismo. Três equipes venceram seus difíceis compromissos fora de casa, embolando de vez a zona vermelha e jogando equipes tradicionais para perto do descenso.
+
+Com apenas mais quatro rodadas restantes para o término do primeiro turno do campeonato nacional, os times começam a planejar reforços cirúrgicos na janela que se aproxima.`,
+    category: 'Resultados',
+    image: 'https://images.unsplash.com/photo-1486282946615-4aeedd3aebd5?q=80&w=1200&auto=format&fit=crop',
+    date: '2026-06-13T22:10:00-03:00',
+    author: 'Artur Mendes',
+    readTime: '4 min',
+    isHighlight: false,
+    likes: 132,
+    comments: []
+  },
+  {
+    id: 'art-11',
+    title: 'Análise Detalhada dos Números: Por que a defesa do campeão é a menos vazada dos últimos 10 anos?',
+    summary: 'Fomos a fundo nas estatísticas de interceptações, duelos aéreos e coberturas para mostrar de forma visual como o ferrolho tático funciona com precisão cirúrgica.',
+    content: `Os números frios muitas vezes dizem muito mais sobre a consistência de um time campeão do que os melhores dribles ou jogadas ensaiadas no ataque do campo.
+
+A campanha defensiva histórica do líder da temporada chama atenção não por acaso. Com apenas 7 gols sofridos em 18 jogos disputados, a equipe caminha a passos largos para bater o recorde histórico absoluto da era dos pontos corridos.
+
+Utilizando dados e estatísticas detalhadas fornecidas pelos sensores térmicos dos estádios, revelamos os três pilares que sustentam este ferrolho impecável:
+
+1. **Taxa de Interceptações Altas (84%):** O posicionamento cirúrgico dos zagueiros centrais impede que passes em profundidade encontrem os atletas adversários livres nas costas do corredor de contenção.
+
+2. **Duelos Defensivos pelo Alto:** Com uma média de altura acima da média e tempo de bola apurado, o time ganha 3 a cada 4 escanteios cobrados em sua própria grande área de defesa.
+
+3. **Compactações de Linhas Curtas:** Em fase defensiva, a equipe recua suas linhas em bloco, deixando uma distância de no máximo 12 metros de campo entre os meias defensivos e os defensores, encurralando totalmente o meio de campo adversário.`,
+    category: 'Resultados',
+    image: 'https://images.unsplash.com/photo-1540747737956-37872604fec0?q=80&w=1200&auto=format&fit=crop',
+    date: '2026-06-12T16:45:00-03:00',
+    author: 'Artur Mendes',
+    readTime: '5 min',
+    isHighlight: false,
+    likes: 167,
+    comments: []
+  },
+  {
+    id: 'art-12',
+    title: 'O Mistério do Número 10: Como a lendária camisa ganhou o peso de representar a genialidade em campo',
+    summary: 'Resgatamos as origens históricas de como um número atribuído de forma puramente aleatória em 1958 transformou o número na marca registrada do craque máximo.',
+    content: `O número 10 estampado nas costas de uma camisa de futebol evoca imediatamente imagens de talento transcendental, lances mágicos, passes milimétricos e gols antológicos na torrente viva da arquibancada. Mas você sabia que a consagração mística deste número nasceu de um puro acaso burocrático?
+
+Antes da Copa do Mundo de 1958 na Suécia, as seleções numéricas não possuiuam atribuições de status fixas associadas aos jogadores. A delegação brasileira, em face às pressões de planejamento da época, enviou a lista de convocados oficiais para a FIFA sem definir os números de camisa correspondentes para os atletas.
+
+Um funcionário da associação organizadora, de forma puramente arbitrária para preencher os formulários pendentes, distribuiu os números de 1 a 22 de forma aleatória.
+
+Por um capricho divino dos deuses do futebol, a camisa de número 10 caiu no colo de um garoto de apenas 17 anos chamado Edson Arantes do Nascimento, que em poucas semanas assombraria o planeta de chuteiras. O resto é história de pura realeza lírica.`,
+    category: 'Curiosidades',
+    image: 'https://images.unsplash.com/photo-1551958219-acbc608c6377?q=80&w=1200&auto=format&fit=crop',
+    date: '2026-06-11T11:00:00-03:00',
+    author: 'Giselle Fernandes',
+    readTime: '3 min',
+    isHighlight: false,
+    likes: 233,
+    comments: []
   }
 ];

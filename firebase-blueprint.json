@@ -1,0 +1,28 @@
+{
+  "collections": {
+    "news": {
+      "title": { "type": "string" },
+      "summary": { "type": "string" },
+      "content": { "type": "string" },
+      "category": { "type": "string" },
+      "image": { "type": "string" },
+      "date": { "type": "string" },
+      "author": { "type": "string" },
+      "readTime": { "type": "string" },
+      "isHighlight": { "type": "boolean" },
+      "likes": { "type": "number" },
+      "comments": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": { "type": "string" },
+            "author": { "type": "string" },
+            "content": { "type": "string" },
+            "date": { "type": "string" }
+          }
+        }
+      }
+    }
+  }
+}
